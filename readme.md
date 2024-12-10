@@ -9,6 +9,7 @@ The first app create using django (library for python).
 ```py
 python -m virtualenv venv
 source venv/Scripts/activate
+pip install -r requirements.txt
 python manage.py runserver
 ```
 
